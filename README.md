@@ -1,0 +1,2 @@
+This is a project for me to improve myself. First of all, there are 2 parts in my code, frontend and backend part, I used hardhat while coding smartcontract in backend part.
+I am trying to improve myself by learning React in the frontend part.
